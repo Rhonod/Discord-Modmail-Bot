@@ -153,6 +153,6 @@
      return member.send({ embeds: [embed] }).catch(err => { })
  })
  
- client.login(token)
+ client.login("MTI2NjUxNzQ2MTgwNTgzMDE0NA.GyJqTK.s0lui3fiOtfk-0y-ttfeheBKJe8vQKJd7B6dJ8")
  
  
